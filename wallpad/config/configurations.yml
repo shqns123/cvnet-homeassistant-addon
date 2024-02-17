@@ -43,13 +43,13 @@ logging:
       - console
 
 mqtt:
-  host: '192.168.0.58'
-  port: 1883
-  user: admin
-  password: admin
+  host: '192.168.0.25'
+  port: 8123
+  user: homeassistant
+  password: waiNaef1oungo4Xeitaecei4vei6uu8phie7eesi7meiXo4ied3ohxaiB2nie6Po
   topic: 'cvnet'
 ew11:
-  host: '192.168.0.62'
+  host: '192.168.0.40'
   port: 8899
 
 devices:
